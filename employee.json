@@ -1,0 +1,6 @@
+May 27, 2022
+[{"matricule_number": "002185", "name": "Brice", "first_name": "Silidje", "month_total": 50000}, 
+{"matricule_number": "14SI-2184", "name": "Silidje", "first_name": "Brice", "month_total": 50000}, 
+{"matricule_number": "oo2184", "name": "Karl", "first_name": "Siaka", "month_total": 50000}, 
+{"matricule_number": "oo2184", "code_name": "15hrIT", "job_name": "it supervisor", "cost_per_hour": 5000, "total_hour": 10, "job_cost": 50000}, 
+{"matricule_number": "002185", "code_name": "hwIT", "job_name": "technician", "cost_per_hour": 10000, "total_hour": 24, "job_cost": 240000}]

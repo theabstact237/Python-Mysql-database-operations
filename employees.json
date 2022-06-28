@@ -1,0 +1,15 @@
+May 12, 2022
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"employees"},
+{"type":"table","name":"employee","database":"employees","data":
+[
+{"matricule_number":"It-2156","name":"Karl","first_name":"Siaka","month_total":"40000"}
+]
+}
+,{"type":"table","name":"list_of_operation","database":"employees","data":
+[
+{"code_name":"job_150","job_name":"etiquettage","cost_per_hour":"700","total_hour":"10","job_cost":"7000"}
+]
+}
+]
